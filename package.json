@@ -34,15 +34,15 @@
   },
   "homepage": "https://github.com/dialogs/electron-ssl-pinning#readme",
   "devDependencies": {
-    "@jest-runner/electron": "2.0.2",
+    "@jest-runner/electron": "3.0.1",
     "@types/electron": "1.6.10",
     "@types/jest": "24.0.19",
     "@types/node": "12.11.1",
-    "electron": "6.0.12",
+    "electron": "22.3.25",
     "flowgen": "^1.10.0",
-    "jest": "24.9.0",
+    "jest": "29.7.0",
     "jest-junit": "8.0.0",
-    "ts-jest": "24.1.0",
+    "ts-jest": "29.1.4",
     "typescript": "3.6.4"
   }
 }
